@@ -1,0 +1,26 @@
+{
+	"name": "d2pt-scraping",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [
+		"dota",
+		"scraper",
+		"dota2protracker",
+		"d2pt-scraping",
+		"d2pt"
+	],
+	"author": "GBRL DEV (https://twitchtv.tv/xstrdoto)",
+	"license": "ISC",
+	"type": "module",
+	"types": "module",
+	"description": "Scraping meta heroes from dota2protracker.com",
+	"dependencies": {
+		"puppeteer": "^22.11.2",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2"
+	}
+}
