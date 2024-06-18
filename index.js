@@ -39,6 +39,7 @@ puppeteer
 				const heroData = [];
 
 				const dataIndexToProperty = [
+					"role",
 					"name",
 					"matches",
 					"winRate",
