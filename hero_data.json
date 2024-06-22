@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Carry\n(Rank #40)\nMost Played",
+    "winRate": "44.00%",
+    "matches": "884",
+    "players": "562"
+  },
+  {
+    "role": "Mid",
+    "winRate": "46.00%",
+    "matches": "13",
+    "players": "10"
+  },
+  {
+    "role": "Offlane",
+    "winRate": "32.00%",
+    "matches": "25",
+    "players": "20"
+  },
+  {
+    "role": "Support",
+    "winRate": "25.00%",
+    "matches": "8",
+    "players": "8"
+  },
+  {
+    "role": "Hard Support\n(Rank #89)",
+    "winRate": "19.00%",
+    "matches": "21",
+    "players": "21"
+  }
+]

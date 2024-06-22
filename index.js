@@ -78,7 +78,7 @@ puppeteer
 
 		console.log("Heróis do Meta:", allHeroData);
 		// save data
-		const jsonOutputPath = "heroes_data.json";
+		const jsonOutputPath = "heroes_meta_data.json";
 		let data = JSON.stringify(allHeroData, null, 2);
 		fs.writeFile(jsonOutputPath, data, (err) => {
 			if (err) throw err;
